@@ -85,7 +85,7 @@ export default function DeletarCategoria() {
             className="w-full text-slate-100 bg-indigo-400 hover:bg-indigo-600 flex items-center justify-center"
             onClick={deletarCategoria}
           >
-            Sim
+            SIM
           </button>
         </div>
       </div>
